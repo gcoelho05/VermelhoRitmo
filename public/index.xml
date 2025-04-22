@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vermelho Ritmo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Vermelho Ritmo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Editorial</title>
+      <link>http://localhost:1313/editorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/editorial/</guid>
+      <description>&lt;p&gt;Este é um site de teste. Use com cuidado!&lt;/p&gt;&#xA;&lt;h1 id=&#34;editorial&#34;&gt;Editorial&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:1313/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/sobre/</guid>
+      <description>&lt;p&gt;Este é um site de teste. Use com cuidado!&lt;/p&gt;&#xA;&lt;h1 id=&#34;hugotoml&#34;&gt;hugo.toml&lt;/h1&gt;&#xA;&lt;p&gt;By default, your site title will be displayed at the top in Blackletter fonts if your web browser and operating system support Blackletter fonts. Essentially, for every English letter &lt;code&gt;X&lt;/code&gt; in your site title, it is substituted with &lt;code&gt;&amp;amp;Xfr;&lt;/code&gt;, e.g. the Blackletter version of &lt;code&gt;A&lt;/code&gt; is &lt;code&gt;&amp;amp;Afr;&lt;/code&gt; (𝔄). Below are the letters from A to Z:&lt;/p&gt;&#xA;&lt;h2 id=&#34;𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ&#34;&gt;𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ&lt;/h2&gt;&#xA;&lt;p&gt;Alternatively, you can provide a banner image:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,187 @@
+:root {
+  --preto: #001207;
+  --branco: #ECEAEA;
+  --vermelho: #A80800;
+  --bordo: #531F1C;
+  --verde: #1A3323;
+}
+
+body {
+  margin: 0;
+  line-height: 1.5em;
+  background: var(--branco);
+}
+.header div, .container, .copyright, .menu {
+  max-width: 1100px;
+  margin: auto;
+  padding: 0 15px;
+}
+.page .header div, .page .container, .page .copyright, .page .menu { max-width: 900px; }
+.container { hyphens: auto; }
+@media (max-width: 930px) {
+  .page .container { padding: 0; }
+}
+main { margin-bottom: 15px; }
+
+/* header and footer areas */
+.header {
+  border-top: 5px solid var(--verde);
+  border-bottom: 4px solid var(--verde);
+  text-align: center;
+  padding: 15px 0 5px;
+}
+.head-meta, .menu {
+  display: flex;
+  justify-content: space-between;
+}
+.header, .list section, article { background: var(--branco); }
+.banner { font-size: 4em; }
+.banner .text {
+  display: block;
+  line-height: 1em;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+}
+.list section {
+  flex: 1 0 350px;
+  box-sizing: border-box;
+  box-shadow: 0 0 8px var(--verde);
+  margin: 1em 0 0 15px;
+  padding: 1em;
+  overflow-x: hidden;
+}
+@media (max-width: 380px) {
+  .list section { flex: auto; }
+}
+@media (min-width: 715px) {
+  .list section { max-width: calc(50% - 15px); }
+  .article-list h1 {
+    overflow-x: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .article-list h1:hover { white-space: inherit; }
+}
+@media (min-width: 1080px) {
+  .list section { max-width: calc(33.33333% - 15px); }
+}
+.article-list a, .banner a { color: var(--preto); }
+.categories a {
+  font-size: .9em;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: var(--verde);
+}
+h1 a:hover { text-decoration: underline; }
+.article-list h1 { margin: .2em auto .2em 0; }
+article { padding: 1em; }
+.article-meta {
+  text-decoration: none;
+  background: var(--bordo);
+  padding: 5px;
+  border-radius: 5px;
+}
+.menu, .article-meta, footer, .post-nav { text-align: center; }
+.article-footer { text-align: left; }
+.title { font-size: 1.2em; }
+.article-list h1, .title { line-height: 1.2em; }
+.article-list a, .header a, footer a, .categories a, .active a, .comments a { text-decoration: none; }
+.pagination { text-align: center; }
+.pagination li, .terms li { display: inline; }
+.pagination a { padding: 0 .2em; }
+.footer {
+  background: var(--verde);
+  padding: 1em 0;
+}
+.footer, .footer a { color: var(--branco); }
+.copyright, .copyright a { color: var(--verde); }
+.menu {
+  margin-bottom: .5em;
+  flex-wrap: wrap;
+}
+.menu li {
+  display: inline-block;
+  font-weight: bolder;
+}
+.menu a { padding: .5em; }
+.menu a:hover {
+  color: var(--preto);
+  background: var(--branco);
+}
+
+hr {
+  border-style: dashed;
+  color: var(--bordo);
+}
+
+/* code */
+pre {
+  border: 1px solid var(--bordo);
+  box-shadow: 5px 5px 5px var(--bordo);
+  overflow-x: auto;
+}
+code { background: var(--branco); }
+pre code {
+  background: none;
+  padding: .5em;
+  display: block;
+}
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+blockquote {
+  background: var(--branco);
+  border-left: 5px solid var(--verde);
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: 1em auto auto;
+  border-top: 1px solid var(--verde);
+  border-bottom: 1px solid var(--verde);
+}
+table thead th { border-bottom: 1px solid var(--bordo); }
+th, td { padding: 5px; }
+tr:nth-child(even) { background: var(--bordo) }
+
+.thumbnail {
+  height: 5.1em;
+  width: 6.8em;
+  float: left;
+  overflow: hidden;
+  margin: 5px 8px 5px 0;
+  box-shadow: 0 0 8px var(--verde);
+}
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+#TableOfContents, #TOC, .comments {
+  border: 1px solid var(--bordo);
+  border-radius: 5px;
+}
+.comments a {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  font-size: 1.2em;
+}
+.terms { padding-left: 0; }
+.post-nav {
+  margin: .5em 0;
+  display: flex;
+  justify-content: space-between;
+}
+.footnotes { font-size: .9em; }
+.footnotes hr {
+  width: 50%;
+  margin-left: 0;
+}
+/* break long words */
+p, ul, ol, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}

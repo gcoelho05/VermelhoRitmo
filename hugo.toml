@@ -1,0 +1,54 @@
+baseURL = 'http://vermelhoritmo.gabrielcoelho.xyz/'
+languageCode = 'pt-br'
+title = 'Vermelho Ritmo'
+theme = 'vermelho-ritmo'
+
+disqusShortname = "openweedsci"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+hasCJKLanguage = true
+enableEmoji = true
+pagination.pageSize = 6
+
+[permalinks]
+    post = "/edicao/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Início"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Categorias"
+    url = "/categories/"
+    weight = 4
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 5
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    summary_length = 300
+    footer = "&copy; [Gabriel Coelho](gabriel@gabrielcoelho.xyz)"
+
+[params.text]
+    back = "&larr; Início"
+    edit = "Editar &rarr;"
+    truncated = "&hellip;"
+    
+#[params.banner]
+#   src = "/banner/logo3.png"
+#   alt = "Vermelho Ritmo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomy]
+tipo = 'tipo'
+edicao = 'edicao'

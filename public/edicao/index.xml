@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edicaoes on Vermelho Ritmo</title>
+    <link>http://localhost:1313/edicao/</link>
+    <description>Recent content in Edicaoes on Vermelho Ritmo</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 18 Apr 2025 16:55:50 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/edicao/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1</title>
+      <link>http://localhost:1313/edicao/1/</link>
+      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
+      <guid>http://localhost:1313/edicao/1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Materia 1</title>
+      <link>http://localhost:1313/edicao/materia/mat1/</link>
+      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
+      <guid>http://localhost:1313/edicao/materia/mat1/</guid>
+      <description>&lt;p&gt;Esta é a materia 1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2</title>
+      <link>http://localhost:1313/edicao/2/</link>
+      <pubDate>Fri, 18 Apr 2025 16:55:25 -0300</pubDate>
+      <guid>http://localhost:1313/edicao/2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3</title>
+      <link>http://localhost:1313/edicao/3/</link>
+      <pubDate>Fri, 18 Apr 2025 16:47:05 -0300</pubDate>
+      <guid>http://localhost:1313/edicao/3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

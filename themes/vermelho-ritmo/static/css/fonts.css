@@ -1,0 +1,13 @@
+body {
+  font-family: 'Legibilmente';
+}
+blockquote {
+  font-family: 'Legibilmente';
+}
+code {
+  font-family: monospace;
+}
+pre code {
+  font-family: monospace;
+  font-size: .85em;
+}
