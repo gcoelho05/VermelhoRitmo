@@ -1,8 +1,7 @@
 name = "Vermelho Ritmo"
 license = "MIT"
 licenselink = "https://github.com/yihui/hugo-xmag/blob/master/LICENSE.md"
-description = "A minimal magazine theme for Hugo based on Xmag-Hugo"
-tags = ["minimal", "magazine", "clean", "simple", "minimalist", "blog", "responsive", "Google Analytics", "Syntax Highlighting"]
+tags = ["minimal", "magazine", "clean", "simple", "minimalist", "blog", "responsive", "Syntax Highlighting"]
 features = ["blog", "magazine"]
 min_version = "0.18"
 

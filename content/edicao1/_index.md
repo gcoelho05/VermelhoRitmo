@@ -7,7 +7,7 @@ categories:
 tags:
   - Edição 1
   - Outra tag
-thumbnail: default-thumbnail.jpg
+thumbnail: 1.png
 description: Edição 1
 author: Gabriel Coelho
 layout: section

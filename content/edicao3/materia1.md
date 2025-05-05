@@ -6,7 +6,7 @@ categories:
   - matéria
 tags:
   - tag1
-thumbnail: default-thumbnail.jpg
+thumbnail: 
 description: Descrição
 author: Autor
 ---

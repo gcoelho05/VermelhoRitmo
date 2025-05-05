@@ -1,9 +1,8 @@
 :root {
-  --preto: #001207;
-  --branco: #ECEAEA;
-  --vermelho: #A80800;
-  --bordo: #531F1C;
-  --verde: #1A3323;
+  --preto: #000000;
+  --branco: #FFFFFF;
+  --vermelho: #D70600;
+  --vermelho2: #820200;
 }
 
 body {
@@ -25,14 +24,15 @@ main { margin-bottom: 15px; }
 
 /* header and footer areas */
 .header {
-  border-top: 5px solid var(--verde);
-  border-bottom: 4px solid var(--verde);
+  background-color: var(--vermelho2) !important; /* Sets the entire section's background */
   text-align: center;
   padding: 15px 0 5px;
 }
 .head-meta, .menu {
   display: flex;
   justify-content: space-between;
+  color: white; /* Optional: Improves text readability on dark backgrounds */
+
 }
 .header, .list section, article { background: var(--branco); }
 .banner { font-size: 4em; }
@@ -48,7 +48,7 @@ main { margin-bottom: 15px; }
 .list section {
   flex: 1 0 350px;
   box-sizing: border-box;
-  box-shadow: 0 0 8px var(--verde);
+  border: 1px solid var(--preto);
   margin: 1em 0 0 15px;
   padding: 1em;
   overflow-x: hidden;
@@ -73,18 +73,20 @@ main { margin-bottom: 15px; }
   font-size: .9em;
   font-weight: bolder;
   text-transform: uppercase;
-  color: var(--verde);
+  color: var(--branco);
 }
 h1 a:hover { text-decoration: underline; }
 .article-list h1 { margin: .2em auto .2em 0; }
 article { padding: 1em; }
 .article-meta {
   text-decoration: none;
-  background: var(--bordo);
+  background: var(--vermelho2);
+  color: var(--branco);
   padding: 5px;
-  border-radius: 5px;
+  text-align: left;
+  text-indent: 290px;
 }
-.menu, .article-meta, footer, .post-nav { text-align: center; }
+.menu, footer, .post-nav { text-align: center; }
 .article-footer { text-align: left; }
 .title { font-size: 1.2em; }
 .article-list h1, .title { line-height: 1.2em; }
@@ -93,11 +95,11 @@ article { padding: 1em; }
 .pagination li, .terms li { display: inline; }
 .pagination a { padding: 0 .2em; }
 .footer {
-  background: var(--verde);
+  background: var(--vermelho2);
   padding: 1em 0;
 }
 .footer, .footer a { color: var(--branco); }
-.copyright, .copyright a { color: var(--verde); }
+.copyright, .copyright a { color: var(--vermelho2); }
 .menu {
   margin-bottom: .5em;
   flex-wrap: wrap;
@@ -114,13 +116,13 @@ article { padding: 1em; }
 
 hr {
   border-style: dashed;
-  color: var(--bordo);
+  color: var(--vermelho2);
 }
 
 /* code */
 pre {
-  border: 1px solid var(--bordo);
-  box-shadow: 5px 5px 5px var(--bordo);
+  border: 1px solid var(--vermelho2);
+  border: 1px solid var(--preto);
   overflow-x: auto;
 }
 code { background: var(--branco); }
@@ -134,18 +136,18 @@ pre code {
 img, iframe, video { max-width: 100%; }
 blockquote {
   background: var(--branco);
-  border-left: 5px solid var(--verde);
+  border-left: 5px solid var(--vermelho2);
   padding: 3px 1em 3px;
 }
 
 table {
   margin: 1em auto auto;
-  border-top: 1px solid var(--verde);
-  border-bottom: 1px solid var(--verde);
+  border-top: 1px solid var(--vermelho2);
+  border-bottom: 1px solid var(--vermelho2);
 }
-table thead th { border-bottom: 1px solid var(--bordo); }
+table thead th { border-bottom: 1px solid var(--vermelho2); }
 th, td { padding: 5px; }
-tr:nth-child(even) { background: var(--bordo) }
+tr:nth-child(even) { background: var(--vermelho2) }
 
 .thumbnail {
   height: 5.1em;
@@ -153,7 +155,7 @@ tr:nth-child(even) { background: var(--bordo) }
   float: left;
   overflow: hidden;
   margin: 5px 8px 5px 0;
-  box-shadow: 0 0 8px var(--verde);
+  border: 1px solid var(--preto);
 }
 .thumbnail img {
   width: 100%;
@@ -161,7 +163,7 @@ tr:nth-child(even) { background: var(--bordo) }
   object-fit: cover;
 }
 #TableOfContents, #TOC, .comments {
-  border: 1px solid var(--bordo);
+  border: 1px solid var(--vermelho2);
   border-radius: 5px;
 }
 .comments a {

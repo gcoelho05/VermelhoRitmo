@@ -8,7 +8,7 @@ categories:
 tags:
   - tag1
   - tag2
-thumbnail: default-thumbnail.jpg
+thumbnail: 
 description: Edição 2
 author: Gabriel Coelho
 layout: section
