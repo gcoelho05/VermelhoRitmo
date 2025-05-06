@@ -1,13 +1,10 @@
 ---
 date: '2025-05-06'
-title: 'Edição 1'
+title: 'Ódio e raiva'
 categories:
   - Edicao
-tags:
-  - Edição 1
-  - Outra tag
-thumbnail: 1.png
-description: Edição 1
+thumbnail: poema.jpg
+description: Poema
 author: Gabriel Coelho
 layout: section
 ---
