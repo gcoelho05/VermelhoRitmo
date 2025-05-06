@@ -8,9 +8,9 @@ Vermelho Ritmo é uma revista digital de política e cultura organizada e escrit
 
 Vermelho Ritmo é um veículo que não esconde seu posicionamento de esquerda. Todo meio jornalístico tem um viés ideológico, o dessa revista segue a linha descrita na música de El Efecto:
 
-> Trabalhar menos
-> Trabalhar todos
-> Produzir o necessário
+> Trabalhar menos \
+> Trabalhar todos \
+> Produzir o necessário \
 > Dividir a produção!
 
 E, enquanto isso não for possível, busca mergulhar nas contradições que nenhuma corrente ideológica pode explicar por completo, o Brasil.
