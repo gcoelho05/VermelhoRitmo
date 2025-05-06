@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edição 1 on Vermelho Ritmo</title>
-    <link>http://localhost:63015/tags/edi%C3%A7%C3%A3o-1/</link>
+    <link>http://localhost:1313/tags/edi%C3%A7%C3%A3o-1/</link>
     <description>Recent content in Edição 1 on Vermelho Ritmo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63015/tags/edi%C3%A7%C3%A3o-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/edi%C3%A7%C3%A3o-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edição 1</title>
-      <link>http://localhost:63015/edicao1/</link>
+      <link>http://localhost:1313/edicao1/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63015/edicao1/</guid>
+      <guid>http://localhost:1313/edicao1/</guid>
       <description>&lt;p&gt;Este é o conteúdo!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Edição 1</title>
+      <link>http://localhost:1313/edicao1/materia/poema/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/edicao1/materia/poema/</guid>
+      <description>&lt;p&gt;Uma sociedade que odeia a si própria &lt;br&gt;&#xA;desconhece o poder de sua raiva &lt;br&gt;&#xA;Um brinde à raiva que sentimos juntos! &lt;br&gt;&#xA;E que a que sentimos uns pelos outros não nos consuma. &lt;br&gt;&#xA;Que a paz de espírito só venha &lt;br&gt;&#xA;se houver justiça.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

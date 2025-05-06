@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vermelho Ritmo</title>
-    <link>http://localhost:63015/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Vermelho Ritmo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63015/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#39;O algoritmo é o chicote que se aprimorou&#39;</title>
-      <link>http://localhost:63015/edicao1/materia/materia1/</link>
+      <link>http://localhost:1313/edicao1/materia/materia1/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63015/edicao1/materia/materia1/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:63015/default-thumbnail.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;O álbum Memórias do Fogo, do El Efecto, surge como uma narrativa poderosa sobre trabalho e resistência. Crítico musical Márcio Machado, ao avaliar o álbum observa que o disco &amp;ldquo;já nasce sendo um dos melhores álbuns do ano, tratando exatamente de memórias, da História, sendo forte, duro nas críticas&amp;rdquo;. Assim, existe um diálogo entre a composição da banda e a historicidade do trabalho brasileiro.&lt;/p&gt;&#xA;&lt;p&gt;A abertura &amp;ldquo;Café&amp;rdquo; mergulha na era colonial. A letra grita &amp;ldquo;Colônia! Teus filhos já estão de pé&amp;hellip; Pesado é o fardo &amp;mdash; e o gosto amargo&amp;rdquo;, evocando o dia a dia cruel do campo brasileiro. O crítico nota que a música usa influência de flamenco e até hardcore para narrar &amp;ldquo;trabalho pesado na lavoura&amp;rdquo; e &amp;ldquo;a história de pessoas que davam suas vidas&amp;rdquo; pela produção do café. O tema é explícito: &amp;ldquo;braços baratos, curvados em nome de um grão&amp;rdquo; sustentam a riqueza alheia. Apesar da abolição formal em 1888, Jane Maria ressalta que nada garantiu vida digna à população negra libertada: &amp;ldquo;Que liberdade é essa?&amp;rdquo;, questiona, lembrando que a Lei Áurea não veio acompanhada de moradia, trabalho ou direitos mínimos. Nas ondas sonoras de &amp;ldquo;Café&amp;rdquo;, a dor dos trabalhadores encontra fúria: &amp;ldquo;Bomba contra foice, metralha contra facão / Sangra a insurreição camponesa&amp;rdquo;. O grito camponês, escondido na história oficial, é reafirmado como parte vital dessa memória do fogo.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/edicao1/materia/materia1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/default-thumbnail.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;O álbum Memórias do Fogo, do El Efecto, surge como uma narrativa poderosa sobre trabalho e resistência. Crítico musical Márcio Machado, ao avaliar o álbum observa que o disco &amp;ldquo;já nasce sendo um dos melhores álbuns do ano, tratando exatamente de memórias, da História, sendo forte, duro nas críticas&amp;rdquo;. Assim, existe um diálogo entre a composição da banda e a historicidade do trabalho brasileiro.&lt;/p&gt;&#xA;&lt;p&gt;A abertura &amp;ldquo;Café&amp;rdquo; mergulha na era colonial. A letra grita &amp;ldquo;Colônia! Teus filhos já estão de pé&amp;hellip; Pesado é o fardo &amp;mdash; e o gosto amargo&amp;rdquo;, evocando o dia a dia cruel do campo brasileiro. O crítico nota que a música usa influência de flamenco e até hardcore para narrar &amp;ldquo;trabalho pesado na lavoura&amp;rdquo; e &amp;ldquo;a história de pessoas que davam suas vidas&amp;rdquo; pela produção do café. O tema é explícito: &amp;ldquo;braços baratos, curvados em nome de um grão&amp;rdquo; sustentam a riqueza alheia. Apesar da abolição formal em 1888, Jane Maria ressalta que nada garantiu vida digna à população negra libertada: &amp;ldquo;Que liberdade é essa?&amp;rdquo;, questiona, lembrando que a Lei Áurea não veio acompanhada de moradia, trabalho ou direitos mínimos. Nas ondas sonoras de &amp;ldquo;Café&amp;rdquo;, a dor dos trabalhadores encontra fúria: &amp;ldquo;Bomba contra foice, metralha contra facão / Sangra a insurreição camponesa&amp;rdquo;. O grito camponês, escondido na história oficial, é reafirmado como parte vital dessa memória do fogo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Edição 1</title>
+      <link>http://localhost:1313/edicao1/materia/poema/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/edicao1/materia/poema/</guid>
+      <description>&lt;p&gt;Uma sociedade que odeia a si própria &lt;br&gt;&#xA;desconhece o poder de sua raiva &lt;br&gt;&#xA;Um brinde à raiva que sentimos juntos! &lt;br&gt;&#xA;E que a que sentimos uns pelos outros não nos consuma. &lt;br&gt;&#xA;Que a paz de espírito só venha &lt;br&gt;&#xA;se houver justiça.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:63015/contato/</link>
+      <link>http://localhost:1313/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63015/contato/</guid>
+      <guid>http://localhost:1313/contato/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;mailto:profissional@gabrielcoelho.xyz&#34;&gt;profissional@gabrielcoelho.xyz&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Editorial</title>
-      <link>http://localhost:63015/editorial/</link>
+      <link>http://localhost:1313/editorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63015/editorial/</guid>
+      <guid>http://localhost:1313/editorial/</guid>
       <description>&lt;p&gt;Vermelho Ritmo é uma revista digital de política e cultura organizada e escrita por Gabriel Coelho. O objetivo é trazer o a linguagem da revista para fora do papel e viabilizar uma produção jornalística em profundidade, seja sobre temas atuais ou históricos.&lt;/p&gt;&#xA;&lt;p&gt;Vermelho Ritmo é um veículo que não esconde seu posicionamento de esquerda. Todo meio jornalístico tem um viés ideológico, o dessa revista segue a linha descrita na música de El Efecto:&lt;/p&gt;</description>
     </item>
   </channel>
