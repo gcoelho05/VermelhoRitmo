@@ -13,14 +13,21 @@
       <link>http://localhost:1313/edicao1/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/edicao1/</guid>
-      <description></description>
+      <description>&lt;p&gt;Créditos da fotografia da capa:&#xA;Rowan Freeman, Unsplash&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>O Operário</title>
+      <link>http://localhost:1313/edicao1/materia/materia2/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/edicao1/materia/materia2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;lula.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;É como se um xote nordestino sintetizasse a saga de Luiz Inácio Lula da Silva do sertão ao Planalto. Em seu terceiro mandato, aos 79 anos, o presidente &amp;mdash; ex-metalúrgico e fundador do PT &amp;mdash; dança no palco da política federal. Símbolo da velha guarda sindicalista, ele desafiou elites ao longo das décadas e agora encara um Congresso hostil, tão turrão quanto a máquina que um dia lhe custou um dedo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ódio e raiva</title>
       <link>http://localhost:1313/edicao1/materia/poema/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/edicao1/materia/poema/</guid>
-      <description>&lt;p&gt;Uma sociedade que odeia a si própria &lt;br&gt;&#xA;desconhece o poder de sua raiva &lt;br&gt;&#xA;Um brinde à raiva que sentimos juntos! &lt;br&gt;&#xA;E que a que sentimos uns pelos outros não nos consuma. &lt;br&gt;&#xA;Que a paz de espírito só venha &lt;br&gt;&#xA;se houver justiça.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Uma sociedade que odeia a si própria &lt;br&gt;&#xA;desconhece o poder de sua raiva &lt;br&gt;&#xA;Um brinde à raiva que sentimos juntos! &lt;br&gt;&#xA;E que a que sentimos uns pelos outros não nos consuma. &lt;br&gt;&#xA;Que a paz de espírito só venha &lt;br&gt;&#xA;se houver justiça.&lt;/p&gt;&#xA;&lt;p&gt;Créditos da imagem da capa: Anna Popović, Unsplash.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -31,3 +31,5 @@ Em suma, a trajetória do trabalhador brasileiro aparece no álbum e nas entrevi
 > Na avenida e na viela \
 > Teu nome há de ecoar que eu vou levar \
 > Na cidade, no campo, na rua ou na cela.
+
+Créditos da imagem da capa: Rowan Freeman, Unsplash
