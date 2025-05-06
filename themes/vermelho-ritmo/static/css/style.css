@@ -40,6 +40,13 @@ main { margin-bottom: 15px; }
   color: white; /* Optional: Improves text readability on dark backgrounds */
 
 }
+.head-meta, .contato {
+  margin-top: 50px;
+  font-size: 1.1em;
+}
+
+
+
 .header, .list section, article { background: white; }
 .banner { font-size: 4em; }
 .banner .text {
@@ -64,12 +71,6 @@ main { margin-bottom: 15px; }
 }
 @media (min-width: 715px) {
   .list section { max-width: calc(50% - 15px); }
-  .article-list h1 {
-    overflow-x: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-  }
-  .article-list h1:hover { white-space: inherit; }
 }
 @media (min-width: 1080px) {
   .list section { max-width: calc(33.33333% - 15px); }
@@ -127,6 +128,10 @@ hr {
   color: var(--vermelho2);
 }
 
+a {
+  color: var(--vermelho);
+}
+
 /* code */
 pre {
   border: 1px solid var(--vermelho2);
@@ -158,12 +163,8 @@ th, td { padding: 5px; }
 tr:nth-child(even) { background: var(--vermelho2) }
 
 .thumbnail {
-  height: 5.1em;
-  width: 6.8em;
-  float: left;
   overflow: hidden;
   margin: 5px 8px 5px 0;
-  border: 1px solid black;
 }
 .thumbnail img {
   width: 100%;

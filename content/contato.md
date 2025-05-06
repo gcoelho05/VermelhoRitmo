@@ -1,6 +1,7 @@
 ---
 title: Contato
-author: 
+author:
+date:
 ---
 
 profissional@gabrielcoelho.xyz

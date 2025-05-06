@@ -1,5 +1,5 @@
 ---
-date: '2025-04-18T16:55:50-03:00'
+date: '2025-05-06'
 draft: true
 title: 'Edição 1'
 categories:

@@ -1,19 +1,15 @@
 ---
-date: '2025-04-18'
+date: '2025-05-06'
 draft: true
 title: "'O algoritmo é o chicote que se aprimorou'"
 thumbnail: default-thumbnail.jpg
-description: Matéria 1 da Edição 2
+description: "História do trabalhador brasileiro, da lavoura ao aplicativo"
 author: Gabriel Coelho
 categories:
   - categoria 1
 ---
 
-https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-clYlmCaQbzY
-# O algoritmo é o chicote que se aprimorou
-
-
-*História do trabalhador brasileiro, da lavoura ao aplicativo*
+![](/default-thumbnail.jpg)
 
 O álbum Memórias do Fogo, do El Efecto, surge como uma narrativa poderosa sobre trabalho e resistência. Crítico musical Márcio Machado, ao avaliar o álbum observa que o disco "já nasce sendo um dos melhores álbuns do ano, tratando exatamente de memórias, da História, sendo forte, duro nas críticas". Assim, existe um diálogo entre a composição da banda e a historicidade do trabalho brasileiro.
 

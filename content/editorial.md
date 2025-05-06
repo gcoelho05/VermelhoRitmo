@@ -1,6 +1,7 @@
 ---
 title: Editorial
-author: 
+author:
+date: ''
 ---
 
 Vermelho Ritmo é uma revista digital de política e cultura organizada e escrita por Gabriel Coelho. O objetivo é trazer o a linguagem da revista para fora do papel e viabilizar uma produção jornalística em profundidade, seja sobre temas atuais ou históricos.

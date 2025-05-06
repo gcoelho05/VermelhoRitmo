@@ -17,11 +17,6 @@
     <a>{{ default "Uncategorized" .Site.Params.text.uncategorized }}</a>
   {{ end }}
   </div>
-  <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-  <div class="date-author">
-    {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }}
-    <span class="date">{{ .Date.Format "2006-01-02" }}</span>
-  </div>
   <div class="summary">
     <a href="{{ .RelPermalink }}">
     {{ with .Resources.GetMatch (printf "%s" .Params.thumbnail) }}
@@ -43,6 +38,11 @@
     {{ end }}
     {{ $.Scratch.Get "summary" }}
     </a>
+  </div>
+  <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+  <div class="date-author">
+    {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }}
+    <span class="date">{{ .Date.Format "2006-01" }}</span>
   </div>
 </section>
 {{ end }}

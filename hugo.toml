@@ -39,7 +39,7 @@ pagination.pageSize = 6
     back = "&larr; Início"
     edit = "Editar &rarr;"
     truncated = "&hellip;"
-    
+
 #[params.banner]
 #   src = "/banner/logo3.png"
 #   alt = "Vermelho Ritmo"
@@ -52,3 +52,7 @@ pagination.pageSize = 6
 [taxonomy]
 tipo = 'tipo'
 edicao = 'edicao'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
