@@ -40,18 +40,14 @@ pagination.pageSize = 6
     edit = "Editar &rarr;"
     truncated = "&hellip;"
 
-#[params.banner]
-#   src = "/banner/logo3.png"
-#   alt = "Vermelho Ritmo"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-[taxonomy]
-tipo = 'tipo'
-edicao = 'edicao'
+#[taxonomy]
+#tipo = 'tipo'
+#edicao = 'edicao'
 
 [caches]
   [caches.images]
