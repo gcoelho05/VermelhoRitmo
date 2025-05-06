@@ -1,14 +1,20 @@
+@font-face {
+  font-family: 'Garamontio';
+  src: url('../fonts/Garamontio-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
-  --preto: #000000;
-  --branco: #FFFFFF;
   --vermelho: #D70600;
   --vermelho2: #820200;
+  font-family: 'Garamontio';
 }
 
 body {
   margin: 0;
   line-height: 1.5em;
-  background: var(--branco);
+  background: white;
 }
 .header div, .container, .copyright, .menu {
   max-width: 1100px;
@@ -24,9 +30,9 @@ main { margin-bottom: 15px; }
 
 /* header and footer areas */
 .header {
-  background-color: var(--vermelho2) !important; /* Sets the entire section's background */
+  background-color: black !important; /* Sets the entire section's background */
   text-align: center;
-  padding: 15px 0 5px;
+  padding: 15px 0 10px;
 }
 .head-meta, .menu {
   display: flex;
@@ -34,7 +40,7 @@ main { margin-bottom: 15px; }
   color: white; /* Optional: Improves text readability on dark backgrounds */
 
 }
-.header, .list section, article { background: var(--branco); }
+.header, .list section, article { background: white; }
 .banner { font-size: 4em; }
 .banner .text {
   display: block;
@@ -48,7 +54,7 @@ main { margin-bottom: 15px; }
 .list section {
   flex: 1 0 350px;
   box-sizing: border-box;
-  border: 1px solid var(--preto);
+  border: 1px solid black;
   margin: 1em 0 0 15px;
   padding: 1em;
   overflow-x: hidden;
@@ -68,12 +74,12 @@ main { margin-bottom: 15px; }
 @media (min-width: 1080px) {
   .list section { max-width: calc(33.33333% - 15px); }
 }
-.article-list a, .banner a { color: var(--preto); }
+.article-list a, .banner a { color: black; }
 .categories a {
   font-size: .9em;
   font-weight: bolder;
   text-transform: uppercase;
-  color: var(--branco);
+  color: white;
 }
 h1 a:hover { text-decoration: underline; }
 .article-list h1 { margin: .2em auto .2em 0; }
@@ -81,14 +87,16 @@ article { padding: 1em; }
 .article-meta {
   text-decoration: none;
   background: var(--vermelho2);
-  color: var(--branco);
+  color: white;
   padding: 5px;
   text-align: left;
-  text-indent: 290px;
+  text-indent: 1em;
+  border-radius: 2px;
 }
 .menu, footer, .post-nav { text-align: center; }
 .article-footer { text-align: left; }
 .title { font-size: 1.2em; }
+.article-list { border-radius: 2px; }
 .article-list h1, .title { line-height: 1.2em; }
 .article-list a, .header a, footer a, .categories a, .active a, .comments a { text-decoration: none; }
 .pagination { text-align: center; }
@@ -98,7 +106,7 @@ article { padding: 1em; }
   background: var(--vermelho2);
   padding: 1em 0;
 }
-.footer, .footer a { color: var(--branco); }
+.footer, .footer a { color: white; }
 .copyright, .copyright a { color: var(--vermelho2); }
 .menu {
   margin-bottom: .5em;
@@ -110,8 +118,8 @@ article { padding: 1em; }
 }
 .menu a { padding: .5em; }
 .menu a:hover {
-  color: var(--preto);
-  background: var(--branco);
+  color: black;
+  background: white;
 }
 
 hr {
@@ -122,10 +130,10 @@ hr {
 /* code */
 pre {
   border: 1px solid var(--vermelho2);
-  border: 1px solid var(--preto);
+  border: 1px solid black;
   overflow-x: auto;
 }
-code { background: var(--branco); }
+code { background: white; }
 pre code {
   background: none;
   padding: .5em;
@@ -135,7 +143,7 @@ pre code {
 /* misc elements */
 img, iframe, video { max-width: 100%; }
 blockquote {
-  background: var(--branco);
+  background: white;
   border-left: 5px solid var(--vermelho2);
   padding: 3px 1em 3px;
 }
@@ -155,7 +163,7 @@ tr:nth-child(even) { background: var(--vermelho2) }
   float: left;
   overflow: hidden;
   margin: 5px 8px 5px 0;
-  border: 1px solid var(--preto);
+  border: 1px solid black;
 }
 .thumbnail img {
   width: 100%;
@@ -164,7 +172,7 @@ tr:nth-child(even) { background: var(--vermelho2) }
 }
 #TableOfContents, #TOC, .comments {
   border: 1px solid var(--vermelho2);
-  border-radius: 5px;
+  border-radius: 2px;
 }
 .comments a {
   display: inline-block;

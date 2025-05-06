@@ -16,11 +16,11 @@
       <description>&lt;p&gt;Este é o conteúdo da matéria!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Materia 1 - Edição 1</title>
+      <title>&#39;O algoritmo é o chicote que se aprimorou&#39;</title>
       <link>http://localhost:1313/edicao1/materia/materia1/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/edicao1/materia/materia1/</guid>
-      <description>&lt;p&gt;Este é o conteúdo!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-clYlmCaQbzY&#34;&gt;https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-clYlmCaQbzY&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;o-algoritmo-é-o-chicote-que-se-aprimorou&#34;&gt;O algoritmo é o chicote que se aprimorou&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;História do trabalhador brasileiro, da lavoura ao aplicativo&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;O álbum Memórias do Fogo, do El Efecto, surge como uma narrativa poderosa sobre trabalho e resistência. Crítico musical Márcio Machado, ao avaliar o álbum observa que o disco &amp;ldquo;já nasce sendo um dos melhores álbuns do ano, tratando exatamente de memórias, da História, sendo forte, duro nas críticas&amp;rdquo;. Assim, existe um diálogo entre a composição da banda e a historicidade do trabalho brasileiro.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Materia 1 - Edição 2</title>
@@ -30,18 +30,18 @@
       <description>&lt;p&gt;Este é o conteúdo!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Contato</title>
+      <link>http://localhost:1313/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contato/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:profissional@gabrielcoelho.xyz&#34;&gt;profissional@gabrielcoelho.xyz&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Editorial</title>
       <link>http://localhost:1313/editorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/editorial/</guid>
-      <description>&lt;p&gt;Este é um site de teste. Use com cuidado!&lt;/p&gt;&#xA;&lt;h1 id=&#34;editorial&#34;&gt;Editorial&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>Sobre</title>
-      <link>http://localhost:1313/sobre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sobre/</guid>
-      <description>&lt;p&gt;Este é um site de teste. Use com cuidado!&lt;/p&gt;&#xA;&lt;h1 id=&#34;hugotoml&#34;&gt;hugo.toml&lt;/h1&gt;&#xA;&lt;p&gt;By default, your site title will be displayed at the top in Blackletter fonts if your web browser and operating system support Blackletter fonts. Essentially, for every English letter &lt;code&gt;X&lt;/code&gt; in your site title, it is substituted with &lt;code&gt;&amp;amp;Xfr;&lt;/code&gt;, e.g. the Blackletter version of &lt;code&gt;A&lt;/code&gt; is &lt;code&gt;&amp;amp;Afr;&lt;/code&gt; (𝔄). Below are the letters from A to Z:&lt;/p&gt;&#xA;&lt;h2 id=&#34;𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ&#34;&gt;𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ&lt;/h2&gt;&#xA;&lt;p&gt;Alternatively, you can provide a banner image:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vermelho Ritmo é uma revista digital de política e cultura organizada e escrita por Gabriel Coelho. O objetivo é trazer o a linguagem da revista para fora do papel e viabilizar uma produção jornalística em profundidade, seja sobre temas atuais ou históricos.&lt;/p&gt;&#xA;&lt;p&gt;Vermelho Ritmo é um veículo que não esconde seu posicionamento de esquerda. Todo meio jornalístico tem um viés ideológico, o dessa revista segue a linha descrita na música de El Efecto:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

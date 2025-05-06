@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/categoria-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Materia 1 - Edição 1</title>
+      <title>&#39;O algoritmo é o chicote que se aprimorou&#39;</title>
       <link>http://localhost:1313/edicao1/materia/materia1/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/edicao1/materia/materia1/</guid>
-      <description>&lt;p&gt;Este é o conteúdo!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-clYlmCaQbzY&#34;&gt;https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-clYlmCaQbzY&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;o-algoritmo-é-o-chicote-que-se-aprimorou&#34;&gt;O algoritmo é o chicote que se aprimorou&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;História do trabalhador brasileiro, da lavoura ao aplicativo&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;O álbum Memórias do Fogo, do El Efecto, surge como uma narrativa poderosa sobre trabalho e resistência. Crítico musical Márcio Machado, ao avaliar o álbum observa que o disco &amp;ldquo;já nasce sendo um dos melhores álbuns do ano, tratando exatamente de memórias, da História, sendo forte, duro nas críticas&amp;rdquo;. Assim, existe um diálogo entre a composição da banda e a historicidade do trabalho brasileiro.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
