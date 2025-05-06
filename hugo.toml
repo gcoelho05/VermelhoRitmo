@@ -1,4 +1,4 @@
-baseURL = 'http://vermelhoritmo.gabrielcoelho.xyz/'
+baseURL = 'https://gcoelho05.github.io/VermelhoRitmo/'
 languageCode = 'pt-br'
 title = 'Vermelho Ritmo'
 theme = 'vermelho-ritmo'
@@ -55,4 +55,4 @@ edicao = 'edicao'
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ':cacheDir'
