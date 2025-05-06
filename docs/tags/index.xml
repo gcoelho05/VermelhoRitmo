@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vermelho Ritmo</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:63015/tags/</link>
     <description>Recent content in Tags on Vermelho Ritmo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63015/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edição 1</title>
-      <link>http://localhost:1313/tags/edi%C3%A7%C3%A3o-1/</link>
+      <link>http://localhost:63015/tags/edi%C3%A7%C3%A3o-1/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/edi%C3%A7%C3%A3o-1/</guid>
+      <guid>http://localhost:63015/tags/edi%C3%A7%C3%A3o-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Outra Tag</title>
-      <link>http://localhost:1313/tags/outra-tag/</link>
+      <link>http://localhost:63015/tags/outra-tag/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/outra-tag/</guid>
+      <guid>http://localhost:63015/tags/outra-tag/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
-      <pubDate>Fri, 18 Apr 2025 19:40:10 -0300</pubDate>
-      <guid>http://localhost:1313/tags/tag1/</guid>
+      <link>http://localhost:63015/tags/tag1/</link>
+      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
+      <guid>http://localhost:63015/tags/tag1/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
+      <link>http://localhost:63015/tags/tag2/</link>
       <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
-      <guid>http://localhost:1313/tags/tag2/</guid>
+      <guid>http://localhost:63015/tags/tag2/</guid>
       <description></description>
     </item>
   </channel>

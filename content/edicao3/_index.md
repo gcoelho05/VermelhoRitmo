@@ -4,10 +4,10 @@ draft: true
 title: 'Edicao3'
 categories:
   - Ediçaõ
-thumbnail: default-thumbnail.jpg
+thumbnail: 2.png
 description: Descrição
 author: Autor
 layout: section
 ---
 
-Este é o conteúdo!
+Em breve.

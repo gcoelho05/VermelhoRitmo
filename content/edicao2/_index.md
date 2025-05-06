@@ -8,10 +8,10 @@ categories:
 tags:
   - tag1
   - tag2
-thumbnail: 
+thumbnail: 2.png
 description: Edição 2
 author: Gabriel Coelho
 layout: section
 ---
 
-Este é o conteúdo!
+Em breve.

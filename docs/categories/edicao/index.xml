@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edicao on Vermelho Ritmo</title>
-    <link>http://localhost:1313/categories/edicao/</link>
+    <link>http://localhost:63015/categories/edicao/</link>
     <description>Recent content in Edicao on Vermelho Ritmo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/edicao/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63015/categories/edicao/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edição 1</title>
-      <link>http://localhost:1313/edicao1/</link>
+      <link>http://localhost:63015/edicao1/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/edicao1/</guid>
+      <guid>http://localhost:63015/edicao1/</guid>
       <description>&lt;p&gt;Este é o conteúdo!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Edição 2</title>
-      <link>http://localhost:1313/edicao2/</link>
+      <link>http://localhost:63015/edicao2/</link>
       <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
-      <guid>http://localhost:1313/edicao2/</guid>
-      <description>&lt;p&gt;Este é o conteúdo!&lt;/p&gt;</description>
+      <guid>http://localhost:63015/edicao2/</guid>
+      <description>&lt;p&gt;Em breve.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
