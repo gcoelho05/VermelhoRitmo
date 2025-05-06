@@ -17,7 +17,7 @@ body {
   background: white;
 }
 .header div, .container, .copyright, .menu {
-  max-width: 1100px;
+  max-width: 1000px;
   margin: auto;
   padding: 0 15px;
 }
@@ -61,7 +61,6 @@ main { margin-bottom: 15px; }
 .list section {
   flex: 1 0 350px;
   box-sizing: border-box;
-  border: 1px solid black;
   margin: 1em 0 0 15px;
   padding: 1em;
   overflow-x: hidden;
