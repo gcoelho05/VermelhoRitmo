@@ -1,4 +1,4 @@
-baseURL = 'https://gcoelho05.github.io/VermelhoRitmo/'
+baseURL = 'https://gcoelho05.github.io/'
 languageCode = 'pt-br'
 title = 'Vermelho Ritmo'
 theme = 'vermelho-ritmo'
