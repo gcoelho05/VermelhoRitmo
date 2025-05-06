@@ -22,19 +22,5 @@
       <guid>http://localhost:1313/tags/outra-tag/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
-      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
-      <guid>http://localhost:1313/tags/tag1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
-      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
-      <guid>http://localhost:1313/tags/tag2/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -22,12 +22,5 @@
       <guid>http://localhost:1313/edicao1/materia/poema/</guid>
       <description>&lt;p&gt;Uma sociedade que odeia a si própria &lt;br&gt;&#xA;desconhece o poder de sua raiva &lt;br&gt;&#xA;Um brinde à raiva que sentimos juntos! &lt;br&gt;&#xA;E que a que sentimos uns pelos outros não nos consuma. &lt;br&gt;&#xA;Que a paz de espírito só venha &lt;br&gt;&#xA;se houver justiça.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Edição 2</title>
-      <link>http://localhost:1313/edicao2/</link>
-      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
-      <guid>http://localhost:1313/edicao2/</guid>
-      <description>&lt;p&gt;Em breve.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

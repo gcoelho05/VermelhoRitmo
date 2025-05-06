@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/edicao1/materia/materia1/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -28,27 +31,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/edi%C3%A7a%C3%B5/</loc>
-    <lastmod>2025-04-18T19:36:56-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/edicao3/</loc>
-    <lastmod>2025-04-18T19:36:56-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/1/</loc>
-    <lastmod>2025-04-18T16:55:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/edicao2/</loc>
-    <lastmod>2025-04-18T16:55:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag1/</loc>
-    <lastmod>2025-04-18T16:55:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag2/</loc>
-    <lastmod>2025-04-18T16:55:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contato/</loc>
   </url><url>

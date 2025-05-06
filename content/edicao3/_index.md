@@ -1,5 +1,5 @@
 ---
-date: '2025-04-18T19:36:56-03:00'
+date: '2026-04-18'
 draft: true
 title: 'Edicao3'
 categories:

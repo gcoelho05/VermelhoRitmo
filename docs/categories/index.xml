@@ -22,19 +22,5 @@
       <guid>http://localhost:1313/categories/edicao/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Ediçaõ</title>
-      <link>http://localhost:1313/categories/edi%C3%A7a%C3%B5/</link>
-      <pubDate>Fri, 18 Apr 2025 19:36:56 -0300</pubDate>
-      <guid>http://localhost:1313/categories/edi%C3%A7a%C3%B5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>1</title>
-      <link>http://localhost:1313/categories/1/</link>
-      <pubDate>Fri, 18 Apr 2025 16:55:50 -0300</pubDate>
-      <guid>http://localhost:1313/categories/1/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
